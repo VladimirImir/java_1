@@ -1,4 +1,4 @@
-package lesson4;
+package com.dev.lesson4;
 
 public class Lesson4Example {
 
